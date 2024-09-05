@@ -1,1 +1,8 @@
-# samradhisharma
+- 👋 Hi, I’m @samradhi-sharma  
+- 👀 I’m passionate about exploring cutting-edge web and mobile technologies.  
+- 🌱 I’m currently honing my skills as a full-stack MERN developer.  
+- 💻 I’ve expanded my expertise to include backend development, mobile app development (Android Studio with Java), and database management with SQL and SQLite.  
+- 🚀 I'm proficient in multiple programming languages like Java, C++, and Python.  
+- 📫 Feel free to reach out at samradhisharma36@gmail.com  
+- 😄 Pronouns: she, sam, web  
+- ⚡ Fun fact: I'm always on the lookout for new challenges to master!  
